@@ -5,9 +5,5 @@ public class HelloWorld {
 		System.out.println("Hello World...");
 	}
 
-	public static void display() {
-		System.out.println("display method...");
-
-	}
 
 }
